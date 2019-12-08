@@ -1,0 +1,6 @@
+seasons in us based on meteorological season
+
+SPRING	March 1
+SUMMER	June 1
+FALL	September 1
+WINTER	December 1
