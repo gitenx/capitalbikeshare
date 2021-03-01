@@ -8,6 +8,4 @@ The dataset (data folder):
  
 In this repo, I only uploaded the data exploration (data-exploration.ipynb).
 
-_fun facts and i guess you don't give a shit: it's should be my final project for data science program, but at the last minute i change the dataset (you can check in this github too)._
-
 Anyway, enjoy!
